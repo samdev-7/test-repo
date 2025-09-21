@@ -37,7 +37,7 @@ filler filler filler filler filler
 
 filler filler 
 
-![](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzksInB1ciI6ImJsb2JfaWQifX0=--4b8bd218e80521ae4052d6b87d60ed8a8c24b2d8/WIN_20250918_01_29_28_Pro.jpg))  
+![WIN_20250918_01_29_28_Pro.jpg](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzksInB1ciI6ImJsb2JfaWQifX0=--4b8bd218e80521ae4052d6b87d60ed8a8c24b2d8/WIN_20250918_01_29_28_Pro.jpg)  
 
 ## 9/19/2025 8:42 PM  
 
@@ -50,7 +50,7 @@ filler filler filler filler filler
 
 filler filler 
 
-![](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzksInB1ciI6ImJsb2JfaWQifX0=--4b8bd218e80521ae4052d6b87d60ed8a8c24b2d8/WIN_20250918_01_29_28_Pro.jpg))  
+![WIN_20250918_01_29_28_Pro.jpg](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzksInB1ciI6ImJsb2JfaWQifX0=--4b8bd218e80521ae4052d6b87d60ed8a8c24b2d8/WIN_20250918_01_29_28_Pro.jpg)  
 
 ## 9/19/2025 8:57 PM  
 
@@ -74,7 +74,7 @@ this is a test
 this is a test
 this is a test
 
-![](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDQsInB1ciI6ImJsb2JfaWQifX0=--f77a0be79a5b198f8406653e4da701671c34fa15/WIN_20250918_01_29_28_Pro.jpg))  
+![WIN_20250918_01_29_28_Pro.jpg](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDQsInB1ciI6ImJsb2JfaWQifX0=--f77a0be79a5b198f8406653e4da701671c34fa15/WIN_20250918_01_29_28_Pro.jpg)  
 
 ## 9/20/2025 9 PM  
 
@@ -131,7 +131,7 @@ this is a test to make sure stuff works
 
 this is a test to make sure stuff works
 
-![](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDgsInB1ciI6ImJsb2JfaWQifX0=--fb003177c8c8e715784b9542ae4592e3e15978ae/image.png))  
+![image.png](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDgsInB1ciI6ImJsb2JfaWQifX0=--fb003177c8c8e715784b9542ae4592e3e15978ae/image.png)  
 
 ## 9/20/2025 11:44 PM - Testing hi  
 
@@ -186,5 +186,5 @@ this is a test! disregard pls
 ```py
 print("test")
 ```
-![](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDksInB1ciI6ImJsb2JfaWQifX0=--773e4dbf5ff4dbefd3d57a7ccaf1e98c87eb87ed/image%2018.png))  
+![image 18.png](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDksInB1ciI6ImJsb2JfaWQifX0=--773e4dbf5ff4dbefd3d57a7ccaf1e98c87eb87ed/image%2018.png)  
 
