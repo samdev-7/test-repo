@@ -171,3 +171,20 @@ print("hello world")
 
 ![](f)  
 
+## 9/21/2025 - testing auto sync!  
+
+This is a test of the blueprint platform, I really hope it works.
+
+I just need to hit the character limit. So, sorry about the spam this is. It shouldn't be this bad on real projects.
+
+AHhhhhhhh
+
+**bold cus why not**
+
+this is a test! disregard pls
+
+```py
+print("test")
+```
+![](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDksInB1ciI6ImJsb2JfaWQifX0=--773e4dbf5ff4dbefd3d57a7ccaf1e98c87eb87ed/image%2018.png))  
+
