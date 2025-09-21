@@ -6,8 +6,8 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of Here's a title.  
-You can view this journal in more detail on Hack Club Blueprint [here](https://blueprint.hackclub.com/projects/4).
+This is my journal of the design and building process of **Here's a title**.  
+You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/4).
 
 
 ## 9/19/2025  
