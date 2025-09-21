@@ -10,23 +10,23 @@ This is my journal of the design and building process of **Here's a title**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://localhost:3000/projects/4).
 
 
-## 9/19/2025  
+## 9/19/2025 3 PM  
 
 # h1
 
 this is a test  
 
-## 9/19/2025  
+## 9/19/2025 7 PM  
 
   
 
-## 9/19/2025  
+## 9/19/2025 8:20 PM  
 
 this is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a test
 
 ![](test)  
 
-## 9/19/2025  
+## 9/19/2025 8:41 PM  
 
 # this is a test to see if stuff works or not
 
@@ -39,7 +39,7 @@ filler filler
 
 ![](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzksInB1ciI6ImJsb2JfaWQifX0=--4b8bd218e80521ae4052d6b87d60ed8a8c24b2d8/WIN_20250918_01_29_28_Pro.jpg))  
 
-## 9/19/2025  
+## 9/19/2025 8:42 PM  
 
 # this is a test to see if stuff works or not
 
@@ -52,7 +52,7 @@ filler filler
 
 ![](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzksInB1ciI6ImJsb2JfaWQifX0=--4b8bd218e80521ae4052d6b87d60ed8a8c24b2d8/WIN_20250918_01_29_28_Pro.jpg))  
 
-## 9/19/2025  
+## 9/19/2025 8:57 PM  
 
 this is a test
 this is a test
@@ -76,7 +76,7 @@ this is a test
 
 ![](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDQsInB1ciI6ImJsb2JfaWQifX0=--f77a0be79a5b198f8406653e4da701671c34fa15/WIN_20250918_01_29_28_Pro.jpg))  
 
-## 9/20/2025  
+## 9/20/2025 9 PM  
 
 The is a test
 The is a testThe is a test
@@ -97,25 +97,25 @@ The is a test
 
 ![](https://google.com)  
 
-## 9/20/2025 - testing stuff  
+## 9/20/2025 11:36 PM - testing stuff  
 
 this is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a test
 
 ![](f)  
 
-## 9/20/2025 - testing stuff  
+## 9/20/2025 11:40 PM - testing stuff  
 
 this is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a test
 
 ![](f)  
 
-## 9/20/2025 - testing stuff2  
+## 9/20/2025 11:40 PM - testing stuff2  
 
 this is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a test
 
 ![](f)  
 
-## 9/20/2025 - testing lol hahah  
+## 9/20/2025 11:43 PM - testing lol hahah  
 
 # this is a test to make sure stuff works
 
@@ -133,7 +133,7 @@ this is a test to make sure stuff works
 
 ![](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDgsInB1ciI6ImJsb2JfaWQifX0=--fb003177c8c8e715784b9542ae4592e3e15978ae/image.png))  
 
-## 9/20/2025 - Testing hi  
+## 9/20/2025 11:44 PM - Testing hi  
 
 ```py
 print("hello world")
