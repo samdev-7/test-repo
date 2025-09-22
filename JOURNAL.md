@@ -16,10 +16,6 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 
 this is a test  
 
-## 9/19/2025 7 PM  
-
-  
-
 ## 9/19/2025 8:20 PM  
 
 this is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a testthis is a test
