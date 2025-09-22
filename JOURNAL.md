@@ -133,44 +133,6 @@ this is a test to make sure stuff works
 
 ![image.png](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDgsInB1ciI6ImJsb2JfaWQifX0=--fb003177c8c8e715784b9542ae4592e3e15978ae/image.png)  
 
-## 9/20/2025 11:44 PM - Testing hi  
-
-```py
-print("hello world")
-```
-```py
-print("hello world")
-```
-```py
-print("hello world")
-```
-```py
-print("hello world")
-```
-```py
-print("hello world")
-```
-```py
-print("hello world")
-```
-```py
-print("hello world")
-```
-```py
-print("hello world")
-```
-```py
-print("hello world")
-```
-```py
-print("hello world")
-```
-```py
-print("hello world")
-```
-
-![](f)  
-
 ## 9/21/2025 - testing auto sync!  
 
 This is a test of the blueprint platform, I really hope it works.
