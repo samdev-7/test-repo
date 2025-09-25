@@ -128,3 +128,36 @@ print("test")
 ```
 ![image 18.png](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDksInB1ciI6ImJsb2JfaWQifX0=--773e4dbf5ff4dbefd3d57a7ccaf1e98c87eb87ed/image%2018.png)  
 
+## 9/25/2025 - regdfegrfdvcegrfdvcergdvc  
+
+wefsdwefdswegfdscxwefdsczx
+wefsdcxwgefdscx
+wegfdscwgefdscx
+wgrefdscx
+wregsdvcx 
+ergdsv 
+ergw
+cdvc ergvdf
+
+rgfsdvc ergdsvcgrwdsvc wgrsdvxcwefsdwefdswegfdscxwefdsczx
+wefsdcxwgefdscx
+wegfdscwgefdscx
+wgrefdscx
+wregsdvcx 
+ergdsv 
+ergw
+cdvc ergvdf
+
+rgfsdvc ergdsvcgrwdsvc wgrsdvxcwefsdwefdswegfdscxwefdsczx
+wefsdcxwgefdscx
+wegfdscwgefdscx
+wgrefdscx
+wregsdvcx 
+ergdsv 
+ergw
+cdvc ergvdf
+
+rgfsdvc ergdsvcgrwdsvc wgrsdvxc
+
+![](wrfsdc)  
+
