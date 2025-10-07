@@ -10,9 +10,3 @@ This is my journal of the design and building process of **Test project**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/1).
 
 
-## 10/7/2025 - THIS IS A TEST!  
-
-![test image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE2LCJwdXIiOiJibG9iX2lkIn19--5ea81fbd9505aba7fba6f72c3190af5d2a096bc8/test%20image.png)
-
-fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds fweds  
-
