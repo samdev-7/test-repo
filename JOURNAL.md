@@ -6,13 +6,21 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Test project**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://localhost:3000/projects/1).
+## 10/28/2025 1:49 PM - test1  
 
+test journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blah
 
-## 10/10/2025 - t4estegrfdcs  
+![](test)  
 
-testingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestin
+## 10/28/2025 1:49 PM - Test 2  
 
-![erfds](/erf/fdf)  
+test journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blah
+
+![](test)  
+
+## 10/28/2025 1:49 PM - test3  
+
+test journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blah
+
+![](test)  
 
