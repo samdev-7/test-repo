@@ -6,21 +6,3 @@
   ==================================================================
 -->
 
-## 10/28/2025 1:49 PM - test1  
-
-test journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blah
-
-![](test)  
-
-## 10/28/2025 1:49 PM - Test 2  
-
-test journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blah
-
-![](test)  
-
-## 10/28/2025 1:49 PM - test3  
-
-test journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blahtest journal blah blah blah
-
-![](test)  
-
